@@ -1,0 +1,14 @@
+Class : FoodItem
+
+Attributes:
+foodName (string)
+price (float)
+leftInStock (integer)
+foodCost (float)
+eigthySixed(bool)
+
+Methods:
+calculateProfit (subtract price from food cost)
+sellFood (reduce the current number in leftInStock by 1)
+prepareFood (increase the current number leftInStock by 1)
+outOfStock (Changed eightySixed to true)
