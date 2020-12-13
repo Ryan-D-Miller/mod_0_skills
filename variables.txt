@@ -1,0 +1,9 @@
+var food = "Crab Legs";
+var isDelicious = true;
+food = "Turkey";
+var num2 = 22;
+var num7 = 7;
+var quotient = num7/num2;
+var song = ["March on Versailles", "Down With the Sickness"];
+song.shift();
+food.length; 
