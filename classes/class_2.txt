@@ -1,0 +1,13 @@
+Class : Table
+
+Attributes:
+occupied (boolean)
+numberOfSeat (integer)
+booth (boolean)
+location (string)
+
+Methods:
+guestsArrive (change occupied to true)
+guestsLeave (change occupied to false)
+addAChair (increase numberOfSeat by 1)
+becomeBooth (set booth to true)
