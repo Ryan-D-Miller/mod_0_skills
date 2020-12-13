@@ -11,4 +11,4 @@ Methods:
 calculateProfit (subtract price from food cost)
 sellFood (reduce the current number in leftInStock by 1)
 prepareFood (increase the current number leftInStock by 1)
-outOfStock (Changed eightySixed to true)
+outOfStock  (Changed eightySixed to true)
