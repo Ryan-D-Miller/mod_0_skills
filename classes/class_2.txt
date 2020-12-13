@@ -2,12 +2,12 @@ Class : Table
 
 Attributes:
 occupied (boolean)
-numberOfSeat (integer)
+numberOfSeats (integer)
 booth (boolean)
 location (string)
 
 Methods:
 guestsArrive (change occupied to true)
 guestsLeave (change occupied to false)
-addAChair (increase numberOfSeat by 1)
+addAChair (increase numberOfSeats by 1)
 becomeBooth (set booth to true)

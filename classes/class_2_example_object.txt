@@ -1,0 +1,13 @@
+Object : Table2
+
+Attributes:
+occupied: false
+numberOfSeats: 4
+booth: false
+location: "Northeast corner"
+
+Methods:
+guestsArrive occupied = true
+guestsLeave occupied = false
+addAChair numberOfSeats = 5
+becomeBooth booth = true
