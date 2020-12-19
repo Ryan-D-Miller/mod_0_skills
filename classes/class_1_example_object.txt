@@ -1,14 +1,14 @@
 Object : CheeseBurger
 
 Attributes:
-foodName: "Cheese Burger"
+productName: "Cheese Burger"
 price: 13.49
 leftInStock: 25
-foodCost: 7.50
+productCost: 7.50
 eigthySixed: false
 
 Methods:
 calculateProfit 13.49 - 7.50 = 5.99
-sellFood 25 -1 = 24
-prepareFood 25 + 1 = 26
-outOfStock  eightySixed = true
+sellProduct 25 -1 = 24
+prepareProduct 25 + 1 = 26
+checkStock   eightySixed = true

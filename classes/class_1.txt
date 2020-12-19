@@ -1,14 +1,14 @@
 Class : FoodItem
 
 Attributes:
-foodName (string)
+productName (string)
 price (float)
 leftInStock (integer)
-foodCost (float)
+productCost (float)
 eigthySixed(bool)
 
 Methods:
 calculateProfit (subtract price from food cost)
-sellFood (reduce the current number in leftInStock by 1)
-prepareFood (increase the current number leftInStock by 1)
-outOfStock  (Changed eightySixed to true)
+sellProduct (reduce the current number in leftInStock by 1)
+prepareProduct (increase the current number leftInStock by 1)
+checkStock  (check leftInStock if 0 change eightySixed to true)

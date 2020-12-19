@@ -7,7 +7,7 @@ booth: false
 location: "Northeast corner"
 
 Methods:
-guestsArrive occupied = true
-guestsLeave occupied = false
+seatGuests occupied = true
+clearGuests occupied = false
 addAChair numberOfSeats = 5
 becomeBooth booth = true

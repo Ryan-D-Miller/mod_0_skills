@@ -7,7 +7,7 @@ booth (boolean)
 location (string)
 
 Methods:
-guestsArrive (change occupied to true)
-guestsLeave (change occupied to false)
+seatGuests (change occupied to true)
+clearGuests (change occupied to false)
 addAChair (increase numberOfSeats by 1)
 becomeBooth (set booth to true)
